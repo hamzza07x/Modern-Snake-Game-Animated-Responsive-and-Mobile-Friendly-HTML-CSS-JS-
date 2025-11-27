@@ -88,9 +88,16 @@ npx http-server
 ```
 snake-game/
 │
-├── index.html          # Landing page with animations
-├── snake-game.html     # Main game file
-└── README.md          # This file
+├── index.html
+├── style.css
+├── script.js
+│
+├── Game/
+│     ├── index.html
+│     ├── style.css
+│     └── script.js
+│
+└── README.md
 ```
 
 ## 🎯 How to Play
@@ -216,8 +223,7 @@ If you enjoyed this game, please consider:
 ## 📞 Contact & Support
 
 - 💬 **Issues**: Report bugs or request features
-- 📧 **Email**: your-email@example.com
-- 🌐 **Website**: https://your-website.com
+- 📧 **Email**: hamzza07x@gmail.com
 
 ---
 
