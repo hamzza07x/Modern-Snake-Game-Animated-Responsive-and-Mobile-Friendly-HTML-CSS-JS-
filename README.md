@@ -231,7 +231,7 @@ If you enjoyed this game, please consider:
 
 ### 🎮 Ready to Play?
 
-**[Start Playing Now](#-quick-start)**
+**[Start Playing Now](https://modern-snake-game-animated-responsi.vercel.app/)**
 
 Made with 🐍 and ❤️
 
